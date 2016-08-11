@@ -20,9 +20,10 @@
 - ViolinPlot.py
 - HeatMap.py
 
-### Catch Me-
+### Catch me -
 
-- Twitter: @jabhij
-- Web: www.letustweak.com
+For any query, ping me on 
+- Twitter: [@jabhij] (https://twitter.com/jabhij)
+- Web: [LetUsTweak] (http://letustweak.com)
 
-Hope, it helps! ヅ
+Hope, it helps!! ヅ
