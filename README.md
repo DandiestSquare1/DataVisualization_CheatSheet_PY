@@ -1,12 +1,14 @@
-## Data Visualization (CheatSheet_PY)
-(A python based Data Visualization cheat sheet.)
+## Data Visualization  (CheatSheet_PY)
 
-- Language: Python
-- Modules: matplotlib, pandas, seaborn
+A python based Data Visualization cheat sheet for Data Science enthusiasts.
+
+- Language: [Python](http://www.letustweak.com/?s=python)
+- Modules: `matplotlib, pandas, seaborn`
 - Data: Cric Sheets
 
 ### The Cheat Tree (Process) 
-(Follow these files step by step as described here)
+
+Follow these files step by step as described here..
 
 - Import_DataSet.py
 - Histogram.py
