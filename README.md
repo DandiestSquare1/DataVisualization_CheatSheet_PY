@@ -10,15 +10,15 @@ A python based Data Visualization cheat sheet for Data Science enthusiasts.
 
 Follow these files step by step as described here..
 
-- Import_DataSet.py
-- Histogram.py
-- BarChart.py
+- [Import_DataSet](https://github.com/jabhij/DataVisualization_CheatSheet_PY/blob/master/Import_DataSet.py)
+- [Histogram](https://github.com/jabhij/DataVisualization_CheatSheet_PY/blob/master/Histogram.py)
+- [BarChart](https://github.com/jabhij/DataVisualization_CheatSheet_PY/blob/master/BarChart.py)
 - LineChart.py
 - BoxPlot.py
 - ColumnChart.py
 - ScatterPlot.py
 - BubblePlot.py
-- PieChart.py
+- [PieChart](https://github.com/jabhij/DataVisualization_CheatSheet_PY/blob/master/PieChart.py)
 - ViolinPlot.py
 - HeatMap.py
 
